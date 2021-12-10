@@ -46,7 +46,7 @@ jobs:
 
   count-args:
   
-    runs-on: upbuntu-latest
+    runs-on: ubuntu-latest
     
     steps:
     - id: report-count
